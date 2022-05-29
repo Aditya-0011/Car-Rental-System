@@ -38,10 +38,3 @@ Create a database in Sqlite Studio:
 			  Available Integer Default 0
 			  )
 	>> If any change is made here make sure to the same in Code.
-
-
-
-
-
-
-
