@@ -24,8 +24,10 @@ Steps to install libraries:
   1. Open command prompt.
   2. Enter install commands to install that library.
 
+
 Create a database in Sqlite Studio:
-	Syntax: >> Create Table Users(
+	Syntax: 
+		>> Create Table Users(
 		      	  Name Text,
 			  Aadhar Integer Unique,
 			  Mobile Integer Unique,
@@ -37,4 +39,5 @@ Create a database in Sqlite Studio:
 		          Name Text,
 			  Available Integer Default 0
 			  )
+	
 	>> If any change is made here make sure to the same in Code.
