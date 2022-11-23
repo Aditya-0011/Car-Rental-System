@@ -1,5 +1,5 @@
-Car Rental System using SqLite
-==============================
+Car Rental System using Python and SqLite
+=========================================
 
 Libraries required
 -------------------
