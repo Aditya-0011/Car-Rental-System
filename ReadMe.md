@@ -8,7 +8,7 @@ Libraries required
    2. Install command:  ```pip install colorama``` 
 
 - __SQLite3__  
-   1. To get close match of any name(here it is car name).  
+   1. To handle database.  
    2. Comes pre-installed with Python.
 
 - __Difflib__  
