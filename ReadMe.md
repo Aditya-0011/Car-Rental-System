@@ -52,3 +52,4 @@ You need to create a database for first time in SQLite Studio
        ```
        
       > __If you change the names of columns in either of the tables make sure to do the same in [CarRent.py](https://github.com/Aditya-0011/Car-Rental-System/blob/main/CarRent.py)__
+ 
